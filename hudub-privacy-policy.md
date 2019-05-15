@@ -1,31 +1,14 @@
-### Sample: hudub Privacy Policy
+# Hudub Privacy Policy
 
 This privacy policy will explain how hudub uses the personal data we collect from you when you use our website.
 
-Topics:
-
-*   What data do we collect?
-*   How do we collect your data?
-*   How will we use your data?
-*   How do we store your data?
-*   Marketing
-*   What are your data protection rights?
-*   What are cookies?
-*   How do we use cookies?
-*   What types of cookies do we use?
-*   How to manage your cookies
-*   Privacy policies of other websites
-*   Changes to our privacy policy
-*   How to contact us
-*   How to contact the appropriate authorities
-
-### What data do we collect?
+## What data do we collect?
 
 hudub collects the following data:
 
 *   Personal identification information (Name, email address, phone number, etc.)
 
-### How do we collect your data?
+## How do we collect your data?
 
 You directly provide hudub with most of the data we collect. We collect data and process data when you:
 
@@ -35,7 +18,7 @@ You directly provide hudub with most of the data we collect. We collect data and
 
 hudub may also receive your data indirectly from the following sources:
 
-### How will we use your data?
+## How will we use your data?
 
 hudub collects your data so that we can:
 
@@ -45,13 +28,13 @@ hudub collects your data so that we can:
 
 When hudub processes your order, it may send your data to, and also use the resulting information from, credit reference agencies to prevent fraudulent purchases.
 
-### How do we store your data?
+## How do we store your data?
 
 hudub securely stores your data with [Google Drive](https://drive.google.com).
 
 hudub will keep your personal identification data for 100 years. Once this time period has expired, we will delete your data by removing it from our database.
 
-### Marketing
+## Marketing
 
 hudub would like to send you information about products and services of ours that we think you might like.
 
@@ -61,9 +44,9 @@ If you have agreed to receive marketing, you may always opt out at a later date.
 
 You have the right at any time to stop hudub from contacting you for marketing purposes or giving your data to other members of the hudub Group.
 
-If you no longer wish to be contacted for marketing purposes, please send an email to hudub@lucascervera.com.
+If you no longer wish to be contacted for marketing purposes, please send an email to hudubcom@gmail.com.
 
-### What are your data protection rights?
+## What are your data protection rights?
 
 hudub would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
@@ -81,49 +64,24 @@ hudub would like to make sure you are fully aware of all of your data protection
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email:
 
-Write to us: hudub@lucascervera.com
+Write to us: hudubcom@gmail.com
 
-### Cookies
-
-Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology
-
-For further information, visit allaboutcookies.org.
-
-### How do we use cookies?
-
-hudub uses cookies in a range of ways to improve your experience on our website, including:
-
-*   Keeping you signed in
-*   Understanding how you use our website
-
-### What types of cookies do we use?
-
-There are a number of different types of cookies, however, our website uses:
-
-*   Functionality – hudub uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
-*   Advertising – hudub uses these cookies to collect information about your visit to our website, the content you viewed, the links you followed and information about your browser, device, and your IP address. hudub sometimes shares some limited aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.
-*   Web visits statistics
-
-### How to manage cookies
-
-You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
-
-### Privacy policies of other websites
+## Privacy policies of other websites
 
 The hudub website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
-### Changes to our privacy policy
+## Changes to our privacy policy
 
-hudub keeps its privacy policy under regular review and places any updates on this web page. This contract is managed with github. You can see all its versions in [github.com](https://github.com/hudub-com/hudub-privacy-policy).
+hudub keeps its privacy policy under regular review and places any updates on this web page. This contract is managed with github. You can see all its versions in [github.com](https://github.com/hudub-com/hudub-legal).
 
-### How to contact us
+## How to contact us
 
 If you have any questions about hudub’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
 
-Email us at: hudub@lucascervera.com
+Email us at: hudubcom@gmail.com
 
-### How to contact the appropriate authority
+## How to contact the appropriate authority
 
 Should you wish to report a complaint or if you feel that hudub has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office.
 
-Email: hudub@lucascervera.com
+Email: hudubcom@gmail.com
